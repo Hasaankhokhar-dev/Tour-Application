@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1031366668484",
+    "project_id": "tourm-61806",
+    "storage_bucket": "tourm-61806.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1031366668484:android:2b64698d9d94cb96391991",
+        "android_client_info": {
+          "package_name": "com.example.t_m"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCtQNE6Ma2Gv2DNEbT6KNtf57oVTQztADk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
